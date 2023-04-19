@@ -2,7 +2,7 @@
 
 ## Aviso:
 
-    o backend precisa estar na pasta adequada para funcionar, ou seja, dentro do xampp,dentro da pasta htdocs e dentro de uma pasta com o nome blog.
+o backend precisa estar na pasta adequada para funcionar, ou seja, dentro do xampp,dentro da pasta htdocs e dentro de uma pasta com o nome blog.
 
 ## Home
 
